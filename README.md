@@ -1,6 +1,6 @@
 # Javatalk
 
-The project was completed by me and one of my friend <a href='linkedin.com/in/jay-kishan-33097a18b'>Jay Kishan</a>.
+The project was completed by me and one of my friend <a href='https://www.linkedin.com/in/jay-kishan-33097a18b/'>Jay Kishan</a>.
 
 In today’s modern and growing era, one needs to be active and connected with others. Since, everyone is quite busy, so it becomes almost impossible to connect to our loved ones. Here, social networking shows its significant role. With its help one can easily take care and be in contact of their relatives and their close friends, no matter how far they are. So, social networking is not just for fun, one uses it in his/her busy life as a need as well.
  
